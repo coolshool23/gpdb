@@ -1,0 +1,10 @@
+regression.diffs
+regression.out
+
+# Local symbolic links
+sql_isolation_testcase.py
+helpers
+
+# Generated subdirectories
+/results/
+/temp_test/

@@ -1,0 +1,7 @@
+# Generated subdirectories
+/log/
+/results/
+/tmp_check/
+# Source file copied from src/common
+/sha2.c
+/sha2_openssl.c
